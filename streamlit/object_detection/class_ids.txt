@@ -1,0 +1,11 @@
+1 type
+2 code
+3 number
+4 name
+5 nationality
+6 dob
+7 place of birth
+8 sex
+9 id card
+10 date of issue
+11 date of expiry
